@@ -1,0 +1,640 @@
+,Retail Price,Duration,Extra Time,Tax,Description,Category Name,Treatment Type,Resource,Online Booking,Available For,Voucher Sales,Commissions,Service ID
+New Client Consultation  - Free,0,15m,,Custom per location,"(this is a legal requirement for all first time visits)
+If you are making your first visit to La Belle Jolie, no matter how simple your appointment, we like to take the time to fill out your registration form with you and welcome you to the salon properly. So don't forget to add this free appointment to your first visit.
+
+As this treatment is a legal requirement, please note that we regret we are unable to carry out any treatments without a complete consultation.",? Consultations & Test Treatments,Skin Consultation,Not required,Enabled,Everyone,Disabled,Enabled,180989
+Telephone Consultation - Free,0,15m,,Custom per location,"If you are unsure about which treatment you would like to book or need information or advice about any of our services, book this telephone consultation to arrange a call back from one of our team.
+
+If you have a specific query, leave a note in the booking and we will ensure that the right person calls you back.",? Consultations & Test Treatments,Skin Consultation,Not required,Enabled,Everyone,Disabled,Enabled,1133084
+Electrolysis consultation & test treatment (free at point of checkout),45,30m,,Custom per location,"This treatment is complimentary and discounted at the point of check out.  All non attended appointments are subject to our usual policies and charges.
+
+Please note: All new clients to electrolysis at La Belle Jolie are required to have this appointment and we are unable to carry out any treatment without it - even if you have received treatment in another salon. 
+
+Treatment time: please allow up to 45 minutes for your visit.",? Consultations & Test Treatments,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,180948
+Blemish and minor lesion identification (for cosmetic removal) - Free,0,15m,,Default per location,"If you have a blemish, lump, bump or lesion that you are unable to identify and would like to have it professionally assessed for potential removal, please book this complimentary appointment.",? Consultations & Test Treatments,Electrolysis,Not required,Enabled,Everyone,Disabled,Enabled,13185460
+Microneedling consultation (free at point of checkout) - discounted at check out,50,15m,,Default per location,"If you are interested in microneedling and are nervous about taking the first step or would like to find out more before booking, this complimentary one to one consultation will enable you to find out everything you need to know.",? Consultations & Test Treatments,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,7665763
+Micro-needling - Anti ageing (collagen induction) - follow up treatments,180,30m,15m blocked time after,Default per location,"Microneedling for facial rejuvenation (collagen induction therapy) creates thousands of micro-channels in the skin to stimulate the production of collagen and elastin to create a more youthful appearance and the removal of fine lines and wrinkles. We also include the neck and d�colletage free of charge as we feel it's important to have the entire area treated each time.
+
+You first appointment includes a �150 homecare kit with all the products you will need to look after your skin after treatment.
+
+It is recommend for maximum results to have three to four treatments of microneedling each 6 to 8 weeks apart. For optimum continued results it is recommend that you repeat the course annually.",Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,6331673
+Micro-needling - Anti ageing (collagen induction) - 1st treatment-inc homecare kit,280,30m,15m blocked time after,Default per location,"Microneedling for facial rejuvenation (collagen induction therapy) creates thousands of micro-channels in the skin to stimulate the production of collagen and elastin to create a more youthful appearance and the removal of fine lines and wrinkles. We also include the neck and d�colletage free of charge as we feel it's important to have the entire area treated each time.
+
+You first appointment includes a �150 homecare kit with all the products you will need to look after your skin after treatment.
+
+It is recommend for maximum results to have three to four treatments of microneedling each 6 to 8 weeks apart. For optimum continued results it is recommend that you repeat the course annually.",Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,6331673
+Micro-needling - Acne & Acne Scarring treatment - follow up treatments,180,30m,15m blocked time after,Default per location,"Microneedling for acne and acne scarring visibly reduces inflammation and pitting from acne scarring, it creates thousands of micro-channels in the skin triggering the bodies natural healing response. to create a smoother clearer complexion.
+
+We also include complimentary anti ageing neck and d�colletage treatment. 
+
+You first appointment includes a �150 homecare kit with all the products you will need to look after your skin after treatment.
+
+It is recommend for maximum results to have a minimum of four treatments 2 to 4 weeks apart.",Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,9402219
+Micro-needling - Acne & Acne Scarring treatment - 1st treatment-inc homecare kit,280,30m,15m blocked time after,Default per location,"Microneedling for acne and acne scarring visibly reduces inflammation and pitting from acne scarring, it creates thousands of micro-channels in the skin triggering the bodies natural healing response. to create a smoother clearer complexion.
+
+We also include complimentary anti ageing neck and d�colletage treatment. 
+
+You first appointment includes a �150 homecare kit with all the products you will need to look after your skin after treatment.
+
+It is recommend for maximum results to have a minimum of four treatments 2 to 4 weeks apart.",Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,9402219
+Micro-needling - Stretch mark reduction - follow on treatments,180,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,7103932
+Micro-needling - Stretch mark reduction - 1st treatment inc homecare kit,280,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,7103932
+Micro-needling - for Scar reduction - follow up treatments,180,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,11663443
+Micro-needling - for Scar reduction - 1st treatment-inc homecare kit,280,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,11663443
+Micro-needling - For Hyperpigmentation - Follow on treatment,180,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,11659158
+Micro-needling - For Hyperpigmentation - 1st treatment inc homecare kit,280,30m,15m blocked time after,Default per location,,Aesthetic treatments,Microneedling,Required,Enabled,Everyone,Disabled,Enabled,11659158
+Age Spot/Solar Lentigo Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"Lentigo is also known as Liver or Age Spots and are associated with older skin. They usually appear on the back of the hands, neck and face and their primary cause is exposure to the sun over many years.
+
+They are caused by an accumulation of a yellow pigment called lipofuscin in the connective tissue of the body and are completely harmless.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11717108
+Age Spot/Solar Lentigo Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Lentigo is also known as Liver or Age Spots and are associated with older skin. They usually appear on the back of the hands, neck and face and their primary cause is exposure to the sun over many years.
+
+They are caused by an accumulation of a yellow pigment called lipofuscin in the connective tissue of the body and are completely harmless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717119
+Age Spot/Solar Lentigo Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Lentigo is also known as Liver or Age Spots and are associated with older skin. They usually appear on the back of the hands, neck and face and their primary cause is exposure to the sun over many years.
+
+They are caused by an accumulation of a yellow pigment called lipofuscin in the connective tissue of the body and are completely harmless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717119
+Age Spot/Solar Lentigo Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"Lentigo is also known as Liver or Age Spots and are associated with older skin. They usually appear on the back of the hands, neck and face and their primary cause is exposure to the sun over many years.
+
+They are caused by an accumulation of a yellow pigment called lipofuscin in the connective tissue of the body and are completely harmless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717119
+Cherry Angioma removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Also known as Campbell De Morgan or blood spots, can develop at any age but can become more common as we age.  They can appear anywhere on the body and can range in size and quantity from one to many. 
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment of �130.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11663831
+Cherry Angioma removal - 15 minute follow up,50,15m,15m blocked time after,Default per location,"Also known as Campbell De Morgan or blood spots, can develop at any age but can become more common as we age.  They can appear anywhere on the body and can range in size and quantity from one to many.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402264
+Cherry Angioma removal - 30 minute follow up,90,30m,15m blocked time after,Default per location,"Also known as Campbell De Morgan or blood spots, can develop at any age but can become more common as we age.  They can appear anywhere on the body and can range in size and quantity from one to many.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402264
+Cherry Angioma removal - 1st treatment,130,30m,15m blocked time after,Default per location,"Also known as Campbell De Morgan or blood spots, can develop at any age but can become more common as we age.  They can appear anywhere on the body and can range in size and quantity from one to many.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402264
+Cyst Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"We can treat epidermoid, sebaceous and pilar cysts.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11717281
+Cyst Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"We can treat epidermoid, sebaceous and pilar cysts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717315
+Cyst Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"We can treat epidermoid, sebaceous and pilar cysts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717315
+Cyst Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"We can treat epidermoid, sebaceous and pilar cysts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717315
+Dermatosis Papulosa Nigra Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"Dermatosis Papulosa Nigra (DPN) is a common disorder which develops in adolescence on Black, Asian and Olive skin types and is identified by smooth, dome shaped dark lesions, seen mainly on the cheeks and forehead.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11706992
+Dermatosis Papulosa Nigra Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Dermatosis Papulosa Nigra (DPN) is a common disorder which develops in adolescence on Black, Asian and Olive skin types and is identified by smooth, dome shaped dark lesions, seen mainly on the cheeks and forehead.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659420
+Dermatosis Papulosa Nigra Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Dermatosis Papulosa Nigra (DPN) is a common disorder which develops in adolescence on Black, Asian and Olive skin types and is identified by smooth, dome shaped dark lesions, seen mainly on the cheeks and forehead.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659420
+Dermatosis Papulosa Nigra Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"Dermatosis Papulosa Nigra (DPN) is a common disorder which develops in adolescence on Black, Asian and Olive skin types and is identified by smooth, dome shaped dark lesions, seen mainly on the cheeks and forehead.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659420
+Filiform Wart removal  - consultation & test treatment,45,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12288595
+Filiform Wart removal  - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12288635
+Filiform Wart removal  - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12288635
+Filiform Wart removal  - 1st treatment,150,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12288635
+Hairs in mole removal** - consultation & test treatment,45,30m,15m blocked time after,Default per location,"** Prior medical consent is needed for this treatment. 
+ It is a legal and insurance requirement that all treatment areas are assessed by your GP and our consent forms signed prior to treatment.
+
+If you have not requested the forms please return to our website here; 
+
+http://labellejolie.com/advanced-cosmetic-procedures.html
+
+and fill out the request form at the bottom of the page.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11664025
+Hairs in moles removal** - 15 minute follow up,60,15m,15m blocked time after,Default per location,"** Prior medical consent is needed for this treatment. 
+ It is a legal and insurance requirement that all treatment areas are assessed by your GP and our consent forms signed prior to treatment.
+
+If you have not requested the forms please return to our website here; 
+
+http://labellejolie.com/advanced-cosmetic-procedures.html
+
+and fill out the request form at the bottom of the page.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402353
+Hairs in moles removal** - 30 minute follow up,100,30m,15m blocked time after,Default per location,"** Prior medical consent is needed for this treatment. 
+ It is a legal and insurance requirement that all treatment areas are assessed by your GP and our consent forms signed prior to treatment.
+
+If you have not requested the forms please return to our website here; 
+
+http://labellejolie.com/advanced-cosmetic-procedures.html
+
+and fill out the request form at the bottom of the page.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402353
+Hairs in moles removal** - 1st treatment,150,30m,15m blocked time after,Default per location,"** Prior medical consent is needed for this treatment. 
+ It is a legal and insurance requirement that all treatment areas are assessed by your GP and our consent forms signed prior to treatment.
+
+If you have not requested the forms please return to our website here; 
+
+http://labellejolie.com/advanced-cosmetic-procedures.html
+
+and fill out the request form at the bottom of the page.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402353
+Milia removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Sometimes referred to as ""whiteheads"" you should never attempt removal of these at home or allow anyone to pop them with a pin or needle, or burst them, due to the high risk of trauma and damage to the skin.  The only safe way to remove milia is with advanced electrolysis techniques.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment of �130.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11663855
+Milia removal - 15 minute follow up,50,15m,15m blocked time after,Default per location,"Sometimes referred to as ""whiteheads"" you should never attempt removal of these at home or allow anyone to pop them with a pin or needle, or burst them, due to the high risk of trauma and damage to the skin.  The only safe way to remove milia is with advanced electrolysis techniques.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402296
+Milia removal - 30 minute follow up,90,30m,15m blocked time after,Default per location,"Sometimes referred to as ""whiteheads"" you should never attempt removal of these at home or allow anyone to pop them with a pin or needle, or burst them, due to the high risk of trauma and damage to the skin.  The only safe way to remove milia is with advanced electrolysis techniques.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402296
+Milia removal - 1st treatment,130,30m,15m blocked time after,Default per location,"Sometimes referred to as ""whiteheads"" you should never attempt removal of these at home or allow anyone to pop them with a pin or needle, or burst them, due to the high risk of trauma and damage to the skin.  The only safe way to remove milia is with advanced electrolysis techniques.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402296
+Mole  Reduction / Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"This treatment is for the removal or reduction of raised moles only and can only be carried out with prior medical approval.
+
+You can request medical consent forms on our website at 
+ https://labellejolie.com/advanced-cosmetic-procedures.html and we will email you the forms to take to your GP.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11707044
+Mole Reduction / Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"This treatment is for the removal or reduction of raised moles only and can only be carried out with prior medical approval.
+
+You can request medical consent forms on our website at 
+ https://labellejolie.com/advanced-cosmetic-procedures.html and we will email you the forms to take to your GP.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659500
+Mole Reduction / Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"This treatment is for the removal or reduction of raised moles only and can only be carried out with prior medical approval.
+
+You can request medical consent forms on our website at 
+ https://labellejolie.com/advanced-cosmetic-procedures.html and we will email you the forms to take to your GP.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659500
+Mole Reduction / Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"This treatment is for the removal or reduction of raised moles only and can only be carried out with prior medical approval.
+
+You can request medical consent forms on our website at 
+ https://labellejolie.com/advanced-cosmetic-procedures.html and we will email you the forms to take to your GP.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11659500
+Plane or Flat Wart Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"Plane warts are typically multiple small flat-topped skin-coloured papules located most commonly on the face, hands, and shins. On the shins and beard-area of the face the virus is often spread by shaving resulting in numerous warts.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11707127
+Plane or Flat Wart Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Plane warts are typically multiple small flat-topped skin-coloured papules located most commonly on the face, hands, and shins. On the shins and beard-area of the face the virus is often spread by shaving resulting in numerous warts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11707278
+Plane or Flat Wart Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Plane warts are typically multiple small flat-topped skin-coloured papules located most commonly on the face, hands, and shins. On the shins and beard-area of the face the virus is often spread by shaving resulting in numerous warts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11707278
+Plane or Flat Wart Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"Plane warts are typically multiple small flat-topped skin-coloured papules located most commonly on the face, hands, and shins. On the shins and beard-area of the face the virus is often spread by shaving resulting in numerous warts.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11707278
+Poikiloderma removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,12073383
+Poikiloderma removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12073408
+Poikiloderma removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12073408
+Poikiloderma removal - 1st treatment,150,30m,15m blocked time after,Default per location,,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12073408
+Skin Tag removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"As with all the skin conditions we treat, skin tags are completely normal and can appear at any time in life.  They can appear in ones and twos or cover an extensive area, removal is simple and virtually painless.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment of �130.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11663930
+Skin Tag removal - 15 minute follow up,50,15m,15m blocked time after,Default per location,"As with all the skin conditions we treat, skin tags are completely normal and can appear at any time in life.  They can appear in ones and twos or cover an extensive area, removal is simple and virtually painless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402310
+Skin Tag removal - 30 minute follow up,90,30m,15m blocked time after,Default per location,"As with all the skin conditions we treat, skin tags are completely normal and can appear at any time in life.  They can appear in ones and twos or cover an extensive area, removal is simple and virtually painless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402310
+Skin Tag removal - 1st treatment,130,30m,15m blocked time after,Default per location,"As with all the skin conditions we treat, skin tags are completely normal and can appear at any time in life.  They can appear in ones and twos or cover an extensive area, removal is simple and virtually painless.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402310
+Spider Naevi removal (facial only) - consultation & test treatment,45,30m,15m processing time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment of �130.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11663977
+Spider Naevi removal - (facial only) - 15 minute follow up,50,15m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9404822
+Spider Naevi removal - (facial only) - 30 minute follow up,90,30m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9404822
+Spider Naevi removal - (facial only) - 1st treatment,130,30m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9404822
+Spider Naevi removal (body only) - consultation & test treatment,45,30m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,12062419
+Spider Naevi removal (body only) - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12062460
+Spider Naevi removal (body only) - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12062460
+Spider Naevi removal (body only) - 1st treatment,150,30m,15m blocked time after,Default per location,"This is a superficial lesion which is usually formed of a central red area with radiating ""legs,"" these become more common as we age and the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,12062460
+Thread Vein removal (facial only) - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11664003
+Thread Vein removal (facial only) - 15 minute follow up,50,15m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402343
+Thread Vein removal (facial only) - 30 minute follow up,90,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402343
+Thread Vein removal (facial only) - 1st treatment,130,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9402343
+Thread Vein removal (body) - consultation & test treatment - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11715091
+Thread Vein removal (body)  - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715101
+Thread Vein removal (body)  - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715101
+Thread Vein removal (body)  - 1st treatment,150,30m,15m blocked time after,Default per location,"Also known as broken capillaries or telanciegtasia these become more common as we age, the walls of our capillaries break down from primarily external factors such as exposure to sunlight and/or high winds, or for the body, standing for long periods or genetic predisposition.
+
+Whilst you need to have a consultation and test treatment prior to receiving a full treatment, if you have less than three areas of treatment this may become a full removal appointment for which you will be charged the full cost of the first appointment.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715101
+Sebaceous Hyperplasia Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,Sebaceous hyperplasia are enlarged sebaceous glands generally seen on the forehead or cheeks which are more prevalent from middle age. It is a harmless condition which is easily removed.,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11707304
+Sebaceous Hyperplasia Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,Sebaceous hyperplasia are enlarged sebaceous glands generally seen on the forehead or cheeks which are more prevalent from middle age. It is a harmless condition which is easily removed.,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714862
+Sebaceous Hyperplasia Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,Sebaceous hyperplasia are enlarged sebaceous glands generally seen on the forehead or cheeks which are more prevalent from middle age. It is a harmless condition which is easily removed.,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714862
+Sebaceous Hyperplasia Removal - 1st treatment,150,30m,15m blocked time after,Default per location,Sebaceous hyperplasia are enlarged sebaceous glands generally seen on the forehead or cheeks which are more prevalent from middle age. It is a harmless condition which is easily removed.,Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714862
+Seborrhoeic Keratosis removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"This is a common benign skin growth, they are usually dark in colour and can appear waxy, scaly and slightly raised and usually appear on the head, neck, chest or back.  They are harmless and not contagious and do not require treatment, however, they can be irritating when they catch on clothing or appear in prominent positions.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11714938
+Seborrhoeic Keratosis removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"This is a common benign skin growth, they are usually dark in colour and can appear waxy, scaly and slightly raised and usually appear on the head, neck, chest or back.  They are harmless and not contagious and do not require treatment, however, they can be irritating when they catch on clothing or appear in prominent positions.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714921
+Seborrhoeic Keratosis removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"This is a common benign skin growth, they are usually dark in colour and can appear waxy, scaly and slightly raised and usually appear on the head, neck, chest or back.  They are harmless and not contagious and do not require treatment, however, they can be irritating when they catch on clothing or appear in prominent positions.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714921
+Seborrhoeic Keratosis removal - 1st treatment,150,30m,15m blocked time after,Default per location,"This is a common benign skin growth, they are usually dark in colour and can appear waxy, scaly and slightly raised and usually appear on the head, neck, chest or back.  They are harmless and not contagious and do not require treatment, however, they can be irritating when they catch on clothing or appear in prominent positions.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714921
+Syringoma removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Syringiomas are benign growths that occur in the sweat ducts. They appear as flesh coloured elevations of the skin, most commonly located around the eye socket, upper chest, armpits, chest, abdomen and forehead.  They typically appear as small 1-3 mm bumps in clusters on both sides of the body.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11717029
+Syringoma removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Syringiomas are benign growths that occur in the sweat ducts. They appear as flesh coloured elevations of the skin, most commonly located around the eye socket, upper chest, armpits, chest, abdomen and forehead.  They typically appear as small 1-3 mm bumps in clusters on both sides of the body.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717053
+Syringoma removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Syringiomas are benign growths that occur in the sweat ducts. They appear as flesh coloured elevations of the skin, most commonly located around the eye socket, upper chest, armpits, chest, abdomen and forehead.  They typically appear as small 1-3 mm bumps in clusters on both sides of the body.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717053
+Syringoma removal - 1st treatment,150,30m,15m blocked time after,Default per location,"Syringiomas are benign growths that occur in the sweat ducts. They appear as flesh coloured elevations of the skin, most commonly located around the eye socket, upper chest, armpits, chest, abdomen and forehead.  They typically appear as small 1-3 mm bumps in clusters on both sides of the body.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717053
+Verruca / Plantar Wart removal - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Plantar Warts or verrucae can be tender and inwardly growing on the sole of the foot, they can also form in clusters of superficial less painful, mosaic warts.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11714952
+Verruca / Plantar Wart removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"Plantar Warts or verrucae can be tender and inwardly growing on the sole of the foot, they can also form in clusters of superficial less painful, mosaic warts.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714969
+Verruca / Plantar Wart removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"Plantar Warts or verrucae can be tender and inwardly growing on the sole of the foot, they can also form in clusters of superficial less painful, mosaic warts.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714969
+Verruca / Plantar Wart removal - 1st treatment,150,30m,15m blocked time after,Default per location,"Plantar Warts or verrucae can be tender and inwardly growing on the sole of the foot, they can also form in clusters of superficial less painful, mosaic warts.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11714969
+Wart Removal - consultation & test treatment - Consultation & test treatment,45,30m,15m blocked time after,Default per location,"For the treatment of common warts. These are most often found on and around the hands, in the early stages they a small and fairly round with a flecked appearance in the centre which can feature tiny black dots.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11717173
+Wart Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"For the treatment of common warts. These are most often found on and around the hands, in the early stages they a small and fairly round with a flecked appearance in the centre which can feature tiny black dots.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717205
+Wart Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"For the treatment of common warts. These are most often found on and around the hands, in the early stages they a small and fairly round with a flecked appearance in the centre which can feature tiny black dots.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717205
+Wart Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"For the treatment of common warts. These are most often found on and around the hands, in the early stages they a small and fairly round with a flecked appearance in the centre which can feature tiny black dots.  They are caused by a virus and and transmitted through contact. Removal is simple and relatively pain free.",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11717205
+Xanthelasma Removal - consultation & test treatment - consultation & test treatment,45,30m,15m blocked time after,Default per location,"Please note that due to Xanthelasmas association with atherosclerosis medical consent from you GP is required prior to this treatment and you cannot be treated without it.
+
+You can request medical consent forms on our website at 
+ https://labellejolie.com/advanced-cosmetic-procedures.html and we will email you the forms to take to your GP.
+
+Xanthelasma is a sharply demarcated yellowish deposit of cholesterol underneath the skin. It usually occurs on or around the eyelids and while it is neither harmful to the skin nor painful, these minor growths may be disfiguring and can be removed.",Advanced Cosmetic Procedures,Skin Consultation,Required,Enabled,Everyone,Disabled,Enabled,11715015
+Xanthelasma Removal - 15 minute follow up treatment,60,15m,15m blocked time after,Default per location,"This is a sharply demarcated yellowish deposit of cholesterol underneath the skin. It usually occurs on or around the eyelids and while it is neither harmful to the skin nor painful, these minor growths may be disfiguring and can be removed.  
+
+Due to their association with atherosclerosis we require prior medical inspection and consent to treat this condition together with a consultation and test treatment appointment before we can provide any further treatment.
+
+If you are unsure please call the salon on 020 7018 1209",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715036
+Xanthelasma Removal - 30 minute follow up treatment,100,30m,15m blocked time after,Default per location,"This is a sharply demarcated yellowish deposit of cholesterol underneath the skin. It usually occurs on or around the eyelids and while it is neither harmful to the skin nor painful, these minor growths may be disfiguring and can be removed.  
+
+Due to their association with atherosclerosis we require prior medical inspection and consent to treat this condition together with a consultation and test treatment appointment before we can provide any further treatment.
+
+If you are unsure please call the salon on 020 7018 1209",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715036
+Xanthelasma Removal - 1st treatment,150,30m,15m blocked time after,Default per location,"This is a sharply demarcated yellowish deposit of cholesterol underneath the skin. It usually occurs on or around the eyelids and while it is neither harmful to the skin nor painful, these minor growths may be disfiguring and can be removed.  
+
+Due to their association with atherosclerosis we require prior medical inspection and consent to treat this condition together with a consultation and test treatment appointment before we can provide any further treatment.
+
+If you are unsure please call the salon on 020 7018 1209",Advanced Cosmetic Procedures,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,11715036
+Microcurrent non-surgical face lift,75,1h 10m,5m blocked time after,Default per location,"This facial combines several different currents for dramatic anti-ageing results; galvanic for deep cleansing and enhanced product penetration and microcurrent for lifting and toning skin and muscles with impressive results after just one treatment. 
+ 
+Clinical studies show that microcurrent increases collagen production, blood circulation, and lymphatic draining, and can increase the length and size of elastin fibres up to 50% creating noticeable differences in fine lines and sagging areas. It also causes a radical increase in ATP (adenosine triphosphate - the molecule responsible for the storage and distribution of energy in the body), production by up to 500%.
+ 
+For the best results it is recommended that you start with three treatments, each a week apart followed by one every month thereafter.",Advanced Facials,Non-Surgical Facelift,Required,Enabled,Everyone,Disabled,Enabled,5366492
+Chroma Peel Facial (LED & Microdermabrasion),48,40m,5m blocked time after,Default per location,"Our Chromapeel, micro-dermabrasion and LED facial helps combat the signs of ageing and  pigmentation. 
+
+ As we age our cellular renewal process slows down, up until our mid 30's it takes approximately 28 days for your skin to renew itself.  After your mid thirties, your age represents the number of days it takes for your skin to renew. The main purpose of micro-dermabrasion is to restore the regular turn over of skin cells to maintain a youthful and radiant appearance other benefits such as promoting collagen production which declines with the ageing process and reducing pigmentation which can become more prevalent with ageing.
+
+The treatment is completed with LED chromatherapy that has been used by both dermatologists and beauty therapists for several decades to stimulate collagen, aid cellular renewal and strengthen capillary walls.
+
+Can be used as a one off treatment but for longer lasting results it is recommended as a regular part of your monthly skincare routine.",Advanced Facials,Microdermabrasion,Required,Enabled,Everyone,Disabled,Enabled,5366517
+Derma3cope (chroma peel & microcurrent),118,1h 50m,10m blocked time after,Default per location,"This is the ultimate anti-ageing treatment from our advanced range of facials, it combines diamond micro-dermabrasion, microcurrent facelifting and LED therapy to create dramatic results in facial rejuvenation, which the keep working long after your facial. 
+
+This facial visibly improves skin laxity, boosts skin cell turn over, increases collagen production and elastin fibres can be increases in size up to 50%.",Advanced Facials,Microcurrent Facial,Required,Enabled,Everyone,Disabled,Enabled,6698428
+[NOT CURRENTLY AVAILABLE] Advanced facial,72,1h 10m,5m blocked time after,Custom per location,"Our advance facial is a combination of electrical and manual techniques using a range of galvanic, high frequency, micro-current and Viennese massage all be combined with powerful serums, botanical extracts and ingredients to restore the balance and improve the appearance of your skin.
+
+It can be used to treat a wide variety of skin concerns such from everyday problems such as lack of hydration, excess oiliness and signs of ageing through to acneic conditions.",Advanced Facials,Facial,Required,Disabled,,Disabled,Enabled,179811
+Back treatment,59,55m,5m blocked time after,Custom per location,"Backs are often neglected, this treatment will leave your back deep cleansed, exfoliated and nourished.  Starting with a hot steam, your back will be cleansed and scrubbed to prepare you for a restorative and  remineralising marine clay mask, your treatment is then completed with back, neck and shoulder massage. This is the perfect preparation treatment for holidays, nights out or just a delicious treat.",Body Treatments,Body Scrub,Not required,Enabled,Everyone,Disabled,Enabled,180934
+Restorative marine spa ritual,70,1h 5m,10m blocked time after,Custom per location,"This spa ritual is the ultimate indulgance and our star treatment.  It begins with you being enveloped in a self heating marine body wrap on a heated massage bed.  You then receive an Indian head massage while restorative marine minerals are absorbed into the skin restoring the tone and vitality, which have also been accredited with assisting the dispersal of local fatty deposits.  The marine clay is then removed with hot towels while you do nothing more than bask in the after glow of the first half of your treatment. Your treatment is then completed with a soothing back massage.  The only unpleasant part of this treatment is waking up!.",Body Treatments,Body Scrub,Not required,Enabled,Everyone,Disabled,Enabled,180943
+Restorative Marine Spa Ritual - with full body massage,92,1h 30m,,Default per location,This includes all the indulgence of the marine spa ritual but the back massage is upgraded to a full body massage for only �22 more!,Body Treatments,Full Body Massage,Not required,Enabled,Everyone,Disabled,Enabled,4413568
+Full body scrub,40,25m,5m blocked time after,Custom per location,This is the perfect pick-me-up for your skin.  If your complexion is looking tired and dull this is the perfect treatment to brighten and stimulate its appearance. A blend of Himalayan salts and coconut oil will brighten and stimulate to leave your skin glowing,Body Treatments,Body Scrub,Not required,Enabled,Everyone,Disabled,Enabled,180945
+Full body scrub - when added to a therapeutic massage,35,25m,5m blocked time after,Custom per location,Our body scrub is discounted when added to any of our therapeutic massages (treatments must be booked together at the same time on the same day).,Body Treatments,Full Body Massage,Required,Enabled,Everyone,Disabled,Enabled,180946
+Electrolysis - 10 minutes,20,15m,15m blocked time after,Custom per location,,Electrolysis,Electrolysis,Required,Disabled,,Disabled,Enabled,388020
+Electrolysis - 15 minutes,25,15m,15m blocked time after,Custom per location,,Electrolysis,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,180952
+Electrolysis - 30 minutes,40,30m,15m blocked time after,Custom per location,,Electrolysis,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,180957
+Electrolysis - 45 minutes,59,45m,15m blocked time after,Custom per location,,Electrolysis,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,180961
+Electrolysis - 60 minutes,76,1h,15m blocked time after,Custom per location,,Electrolysis,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,180963
+Electrolysis - 120 mins,152,2h,15m blocked time after,Default per location,,Electrolysis,Electrolysis,Required,Enabled,Everyone,Disabled,Enabled,9727947
+Electrolysis - left over minutes - Free,0,15m,,Custom per location,,Electrolysis,Electrolysis,Required,Disabled,,Disabled,Disabled,1145003
+Patch test - lash lifting and tinting (48 hours in advance) - Free,0,15m,,Default per location,,Eye Treatments,Lash Lift and Tint,Not required,Enabled,Everyone,Disabled,Disabled,6838595
+Patch test - lash & brow tinting (48 hrs in advance) - Free,0,15m,,Custom per location,A patch test is required 48 hours before your first tint treatment at the salon. Or if it has been 12 months or more since your last lash tint.  This is a legal requirement and we are not able to perform any tinting treatments without it.,Eye Treatments,Lash Lift and Tint,Not required,Enabled,Everyone,Disabled,Enabled,179926
+Patch test - lash lift (48 hrs in advance) - Free,0,15m,,Default per location,A patch test is required 48 hours before your first lash lift treatment at the salon. Or if it has been 12 months or more since your last lash lift.  This is a legal requirement and we are not able to perform any lash lift treatments without it.,Eye Treatments,Lash Lift,Not required,Enabled,Everyone,Disabled,Enabled,2874229
+Patch test - temporary/party lashes (48 hrs in advance) - Free,0,15m,,Default per location,A patch test is required 48 hours before your first lash application at the salon. Or if it has been 12 months or more since your last lash application.  This is a legal requirement and we are not able to perform any lash treatments without it.,Eye Treatments,Eyelash Extensions,Required,Enabled,Everyone,Disabled,Enabled,5774278
+Patch test - semi permanent lashes (48 hrs in advance) - Free,0,15m,,Custom per location,A patch test is required 48 hours before your lash treatment at the salon. Or if it has been 12 months or more since your last lash application.  This is a legal requirement and we are not able to perform any lash treatments without it.,Eye Treatments,Permanent Makeup,Not required,Disabled,,Disabled,Enabled,179927
+Eyebrow shape - Strip wax,18,15m,,Custom per location,"To shape the eyebrow using tweezers, strip or hot wax, please select your preferred method from the drop down menu below.",Eye Treatments,Eyebrow Shaping,Not required,Enabled,Everyone,Disabled,Enabled,179898
+Eyebrow shape - Hot wax,18,15m,,Custom per location,"To shape the eyebrow using tweezers, strip or hot wax, please select your preferred method from the drop down menu below.",Eye Treatments,Eyebrow Shaping,Not required,Enabled,Everyone,Disabled,Enabled,179898
+Eyebrow shape - Tweezers,18,15m,,Custom per location,"To shape the eyebrow using tweezers, strip or hot wax, please select your preferred method from the drop down menu below.",Eye Treatments,Eyebrow Shaping,Not required,Enabled,Everyone,Disabled,Enabled,179898
+Eyelash tint,22,20m,10m blocked time after,Custom per location,"If you have not had your lashes tinted at La Belle Jolie or if it has been over 12 months since your last tinting appointment, please note that you will need to book a patch test at least 48 hours prior to treatment.",Eye Treatments,Eyelash Tinting,Not required,Enabled,Everyone,Disabled,Enabled,179930
+Eyelash & eyebrow tint,32,25m,5m blocked time after,Custom per location,"If you have not had a tinting treatment at La Belle Jolie or if it has been over 12 months since your last tinting appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Eyelash Tinting,Not required,Enabled,Everyone,Disabled,Enabled,179932
+Eyelash tint & eyebrow shape,32,25m,5m blocked time after,Default per location,,Eye Treatments,Eyebrow Shaping,Required,Enabled,Everyone,Disabled,Enabled,5834778
+Eyebrow tint,18,15m,,Custom per location,"If you have not had your eyebrows tinted at La Belle Jolie or if it has been over 12 months since your last tinting appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Eyebrow Tinting,Required,Enabled,Everyone,Disabled,Enabled,179931
+Eyebrow shape & tint,32,25m,5m blocked time after,Custom per location,"If you have not had your eyebrows tinted at La Belle Jolie or if it has been over 12 months since your last tinting appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Eyebrow Shaping,Required,Enabled,Everyone,Disabled,Enabled,179933
+Eye trio - eyelash & brow tint & eyebrow shape,45,40m,5m blocked time after,Custom per location,"If you have not had a tint treatment at La Belle Jolie or if it has been over 12 months since your last tinting appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Eyebrow Shaping,Not required,Enabled,Everyone,Disabled,Enabled,179929
+Lash lift,55,45m,,Default per location,"If you have not had your lashes lifted at La Belle Jolie or if it has been over 12 months since your last lash lift appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Lash Lift,Not required,Enabled,Everyone,Disabled,Enabled,1883162
+Lash lift & tint,65,55m,5m blocked time after,Default per location,"If you have not had a lash lift or tint treatment at La Belle Jolie or if it has been over 12 months since your last lash lift appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Lash Lift and Tint,Not required,Enabled,Everyone,Disabled,Enabled,1883178
+Lash lift with lash & brow tint,70,55m,5m blocked time after,Default per location,"If you have not had a lash lift or tint at La Belle Jolie or if it has been over 12 months since your last lash lift appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Lash Lift and Tint,Not required,Enabled,Everyone,Disabled,Enabled,1883181
+"Eye quattro - lash lift, eyelash & brow tint & eyebrow shape",75,1h 5m,10m blocked time after,Default per location,"If you have not had a lash lift or tint at La Belle Jolie or if it has been over 12 months since your last lash lift appointment, please note that you will need to book a patch test at least 48 hours prior to your treatment.",Eye Treatments,Lash Lift and Tint,Not required,Enabled,Everyone,Disabled,Enabled,1883185
+Temporary lashes (also called party or flare lashes),38,25m,5m blocked time after,Custom per location,"Temporary lashes provide you with the chance to have glamorous eyelashes for a shorter duration than semi-permanent lashes. Lasting for just two weeks they are perfect for special occasions, parties or holidays.
+
+Lashes can be applied with a delicate natural appearance right through to a heavier more dramatic effect and can last up to fourteen days depending on aftercare.
+
+Your lashes will need to be professionally removed after 14 days, which is carried out free of charge.",Eye Treatments,Eyelash Extensions,Not required,Enabled,Everyone,Disabled,Enabled,179935
+Temporary lash removal (flare lashes) - Free,0,15m,,Custom per location,"The professional and safe removal of temporary eyelashes is essential, attempting to remove lashes yourself can cause damage to your own lashes.
+
+This treatment is free of charge.
+
+Please note:  We regret we cannot remove lashes applied by other salons.",Eye Treatments,Scar Removal,Not required,Enabled,Everyone,Disabled,Enabled,179937
+Semi-permanent lashes - full set,85,2h,,Custom per location,"Semi-permanent lashes offer an elegant way to enhance your own natural eyelashes with long lasting effects.
+
+Lashes can be worn indefinitely as one single lash is applied to one of your own, thus not impeding growth nor potentially harming the regrowth of new hairs.
+
+We do recommend that you will require an in-fill appointment every four to six weeks according to your homecare.
+
+N.B. IT IS ESSENTIAL THAT YOU BOOK A PATCH TEST 48 HOURS PRIOR TO THIS APPOINTMENT OR WE WILL NOT BE ABLE TO CARRY OUT YOUR APPOINTMENT.",Eye Treatments,Eyelash Extensions,Not required,Disabled,,Disabled,Enabled,179939
+Semi-permanent lashes - infills for full set,50,1h 30m,,Custom per location,"Semi-permanent lashes offer an elegant way to enhance your own natural eyelashes with long lasting effects.
+
+Lashes can be worn indefinitely as one single lash is applied to one of your own, thus not impeding growth nor potentially harming the regrowth of new hairs.
+
+We do recommend that you will require an in-fill appointment every four to six weeks according to your homecare.
+
+N.B. Please note that for legal reasons we cannot in-fill lashes that have been applied in other salons",Eye Treatments,Eyelash Extensions,Not required,Enabled,Everyone,Disabled,Enabled,179941
+Semi-permanent lashes - half set,65,1h 30m,,Custom per location,"Semi-permanent lashes offer an elegant way to enhance your own natural eyelashes with long lasting effects.
+
+Lashes can be worn indefinitely as one single lash is applied to one of your own, thus not impeding growth nor potentially harming the regrowth of new hairs.
+
+We do recommend that you will require an in-fill appointment every four to six weeks according to your homecare.
+
+N.B. IT IS ESSENTIAL THAT YOU BOOK A PATCH TEST 48 HOURS PRIOR TO THIS APPOINTMENT OR WE WILL NOT BE ABLE TO CARRY OUT YOUR APPOINTMENT.",Eye Treatments,Eyelash Extensions,Not required,Enabled,Everyone,Disabled,Enabled,179943
+Semi-permanent lashes - infills for half set,40,1h 15m,,Custom per location,"Semi-permanent lashes offer an elegant way to enhance your own natural eyelashes with long lasting effects.
+
+Lashes can be worn indefinitely as one single lash is applied to one of your own, thus not impeding growth nor potentially harming the regrowth of new hairs.
+
+We do recommend that you will require an in-fill appointment every four to six weeks according to your homecare.
+
+N.B. Please note that for legal reasons we cannot in-fill lashes that have been applied in other salons",Eye Treatments,Eyelash Extensions,Not required,Disabled,,Disabled,Enabled,179945
+Semi permanent lash removal,20,25m,5m blocked time after,Default per location,"The professional and safe removal of semi-permanent eyelashes is essential, attempting to remove lashes yourself can cause damage to your own lashes.
+
+This treatment is free of charge.
+
+Please note:  We regret we cannot remove lashes applied by other salons.",Eye Treatments,Eyelash Extensions,Not required,Disabled,,Disabled,Enabled,2760303
+Express facial,42,25m,5m blocked time after,Default per location,"The newest addition to our facial menu, this deep cleansing facial is perfect as a maintenance treatment with steam, a deep cleanse and exfoliate, extractions (optional) and masque all completed with serums and moisturisers to suit your skins needs and tackles skin concerns.
+
+Please note that this facial doesn't include massage.",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,9738822
+De-stress facial,42,25m,5m blocked time after,Custom per location,"This is the ideal ""pick me up"" or a luxury add on to another treatment, your skin is steam cleansed and exfoliated then followed with a lifting and toning massage to the head, neck, shoulders and d�collet� and all enhanced by our active botanical range designed to promote a healthy, toned and hydrated complexion.
+
+Treatment time: 25 mins",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,179814
+Prescription facial,70,55m,5m blocked time after,Custom per location,"This bespoke facial changes with your individual needs.  On each visit your skin is thoroughly assessed and  products are carefully selected.
+
+Beginning with a deep cleanse and steam, extractions (if requested) your face and d�collet� will be exfoliated, nourished, soothed and hydrated whilst a stimulating head, neck and shoulder massage will soothe away stress, stimulate the production of collagen and plump out fine lines and leave your skin visibly toned and glowing.  This is then followed with a masque which is accompanied by a deeply relaxing scalp massage.
+
+Treatment time: 55 mins",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,179808
+Vegan prescription facial,70,55m,5m blocked time after,Default per location,"Whilst all our skincare is vegetarian friendly, vegan skincare is a little more specific, so we have created a specially curated facial from our range to ensure complete peace of mind while you receive all the benefits of our prescription facial.
+
+Treatment time: 55 minutes.",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,2754814
+Microgreens Detox Facial,70,55m,5m blocked time after,Custom per location,"This facial has quickly become our firm favourite, with instant anti-ageing results, skin is visibly younger looking after one treatment.
+
+Research is now showing that particulate matter from pollution is a primary contributor to premature ageing �minence Organics have launched their very own ""anti-pollution solution.""
+ 
+The Microgreens detox collection stimulates the release of enzymes that prevent free radical damage and oxidative stress and reduces the signs of premature ageing.
+
+Treatment time: 55 mins",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,1775444
+Signature facial,95,1h 20m,10m blocked time after,Custom per location,"The most indulgent treatment of our facial range, this deeply relaxing treat begins with a neck, back and shoulder massage to ensure you are fully relaxed before your facial begins.  After a thorough consultation and assessment, your skin will be steamed (extractions can be performed on request), deep cleansed, exfoliated, nourished and hydrated and further enhanced with our anti ageing face, neck and d�collet� lifting massage.
+ 
+This facial is always adapted to suit your skins needs or present concerns at the time of treatment using �minence Organics wide range of prescriptive and powerful products
+
+Treatment time: 80 minutes",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,179806
+Fire & ice facial,75,55m,5m blocked time after,Default per location,"Known among Holllywood's A-listers as a ""red carpet facial,"" it deeply exfoliates and brightens your complexion, stimulates the micro-circulation and lymph whilst resurfacing the skin, reducing the appearance of fine lines and wrinkles giving a healthy glowing complexion are all achieved with exfoliating AHA's, natural retinol alternative, rosehip, menthol and healing Lotus extracts.
+
+Treatment time: 55 mins",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,2754843
+Yam & Pumpkin Enzyme Peel,58,40m,5m blocked time after,Default per location,"For dramatic facial peeling results without the downtime of harsher peels, our Yam and Pumpkin enzyme peel is a gentle yet impressive facial that gives dramatic and immediate results.
+ 
+Visibly softening the signs of ageing and hydrating the skin it also reduces the appearance of pigmentation, fine lines and sun damage, with no harsh after effects and zero down time.",Facials,Facial,Not required,Enabled,Everyone,Disabled,Enabled,5364814
+Mangosteen lactic acid peel,70,55m,5m blocked time after,Custom per location,"Increasing demand in the industry for facial peeling has lead to the creation of this gentle and effective peel. Ideal for sensitive skins (if you're looking for something a little more powerful scroll down for our Yam & Pumpkin Peel).
+
+Whilst harsh chemical facial peels can leave the skin impaired and vulnerable until it heals, this gentle non-invasive treatment has no down time and and your skin is left bright and hydrated.
+
+Mangosteen helps to protect the skin from dehydration and damage from environmental impact, minimising enlarged pores, stimulating cellular renewal it's even suitable for sensitive skins.  You facial is completed with natural retinols which are scientifically proven to outperform their synthetic counterparts!.
+
+Treatment time: 55 mins",Facials,Chemical Peel,Not required,Enabled,Everyone,Disabled,Enabled,1775450
+Gel manicure,45,40m,5m blocked time after,Default per location,"The worlds first non toxic, green gel polish!  Free from hormone disrupting chemicals and easy and gentle to remove without damage to you nails.  What's not to love!?",Gel Polish Removal,Gel Nails,Required,Disabled,,Disabled,Enabled,5041887
+Luxury gel manicure,60,50m,10m blocked time after,Default per location,"The worlds first non toxic, green gel polish!  Free from hormone disrupting chemicals and easy and gentle to remove without damage to you nails.  What's not to love!?",Gel Polish Removal,Gel Nails,Required,Disabled,,Disabled,Enabled,5041894
+Gel pedicure,45,40m,5m blocked time after,Default per location,"The worlds first non toxic, green gel polish!  Free from hormone disrupting chemicals and easy and gentle to remove without damage to you nails.  What's not to love!?",Gel Polish Removal,Gel Nails,Required,Disabled,,Disabled,Enabled,5041903
+Luxury gel pedicure,60,50m,10m blocked time after,Default per location,"The worlds first non toxic, green gel polish!  Free from hormone disrupting chemicals and easy and gentle to remove without damage to you nails.  What's not to love!?",Gel Polish Removal,Gel Nails,Required,Disabled,,Disabled,Enabled,5041906
+Gel polish removal (for polish not applied at La Belle Jolie),25,25m,5m blocked time after,Custom per location,This is for gel polish that has not been applied at La Belle Jolie as the removal process is longer and differs to that for our eco polish.,Gel Polish Removal,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180910
+Gel polish removal (for polish applied at La Belle Jolie) - Free,0,30m,,Default per location,"Please make sure to book this appointment if you have any gel polish left on your nails, even the smallest amount  to allow us the time to remove it.",Gel Polish Removal,Gel Nails,Not required,Enabled,Everyone,Disabled,Enabled,5041910
+Express manicure,30,25m,5m blocked time after,Custom per location,A file and polish to make your nails look as good as new.,Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180660
+Classic spa manicure,45,40m,5m blocked time after,Custom per location,"This classic manicure includes cuticle work, hand massage and a file and polish leaving your hands hydrated and your nails polished to perfection.",Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180666
+Classic spa pedicure,45,40m,5m blocked time after,Custom per location,"The perfect pampering for your feet. Once your feet have soaked in a herbal foot bath your nails are filed and cuticles tidied and our invigorating foot balm leaves you feet feeling refreshed, your pedicure is completed with the Mavala colour of your choice.",Hands & Feet,Pedicure,Required,Enabled,Everyone,Disabled,Enabled,180923
+Classic spa manicure - with French polish,45,40m,5m blocked time after,Custom per location,"This classic manicure includes cuticle work, hand massage and a file and polish leaving your hands hydrated and your nails polished to perfection with a french manicure.",Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180895
+Luxury spa manicure,55,55m,5m blocked time after,Custom per location,"For the ultimate manicure experience this indulgent treatment includes hand exfoliation, a deep hydrating masque and cuticle treatment with heated mittens followed by a hot stone hand and arm massage leaving you with beautifully soft hands. This treatment ends with the application of a Mavala polish in your choice of colour.",Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180896
+Luxury spa pedicure,60,1h,,Custom per location,"Perfect for neglected or tired feet, natural AHA's are used specifically target areas of hard skin such as dry and cracked heels, your feet and legs are exfoliated with our luxurious sugar polish and deep moisturising masque is applied before heated bootees help to penetrate the active ingredients. After cuticle work you will receive a soothing hot stone massage with an intensive foot balm after which your nails are polished with a Mavala colour of your choice.",Hands & Feet,Pedicure,Required,Enabled,Everyone,Disabled,Enabled,180927
+Luxury spa manicure - with French polish,55,55m,10m blocked time after,Custom per location,"For the ultimate manicure experience this indulgent treatment includes hand exfoliation, a deep hydrating masque and cuticle treatment with hot towels and a hand and arm massage leaving you with beautifully soft hands. This treatment ends with a French manicure with Mavala polish.",Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180665
+Restorative hand & nail treatment,45,40m,5m blocked time after,Custom per location,"A luxurious hand and arm treatment that focuses on restoring and replenishing tired and damaged skin, nails are shaped and cuticles removed to prepare you for a nourishing mask and heat treatment and restorative massage, all combined with our organic botanical range to create younger looking hands.
+
+NB:
+* This treatment does not include nail painting. 
+* All our manicures and pedicures are carried out in private rooms.",Hands & Feet,Manicure,Required,Enabled,Everyone,Disabled,Enabled,180899
+Restorative foot ritual,45,40m,5m blocked time after,Custom per location,"This heavenly ritual has all the benefits of the luxury pedicure with the AHA hard skin treatment, foot and leg exfoliation and hydrating masque but the emphasis of this treatment is on the massage, leaving you with a spring in your step and beautifully soft feet.
+
+Please note that there is no polish in this treatment.",Hands & Feet,Pedicure,Required,Enabled,Everyone,Disabled,Enabled,180931
+Swedish Massage - 50 minutes,58,50m,10m blocked time after,Default per location,,Massage & Well-Being Therapies,Swedish Massage,Not required,Disabled,,Disabled,Enabled,6796334
+Swedish Massage - 80 minutes,78,1h 20m,10m blocked time after,Default per location,,Massage & Well-Being Therapies,Swedish Massage,Not required,Disabled,,Disabled,Enabled,6796334
+Therapeutic massage - 80 minutes,90,1h 20m,10m blocked time after,Custom per location,"All our massages begin with a detailed consultation to allow you to choose how you spend the time, what pressure you require and to ascertain areas of pain, discomfort or concern.  We work each muscle group thoroughly and use a variety of massage techniques such as Swedish, myofascial release, lymphatic drainage and deep tissue to create a massage that is unique to your needs.
+
+Treatment time: 1 hr 20 mins",Massage & Well-Being Therapies,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,179949
+Therapeutic massage - 50 minutes,68,50m,10m blocked time after,Custom per location,"All our massages begin with a detailed consultation to allow you to choose how you spend the time, what pressure you require and to ascertain areas of pain, discomfort or concern.  We work each muscle group thoroughly and use a variety of massage techniques such as Swedish, myofascial release, lymphatic drainage and deep tissue to create a massage that is unique to your needs.
+
+Treatment time: 50 mins",Massage & Well-Being Therapies,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,179950
+Therapeutic massage - 40 minutes,54,40m,5m blocked time after,Custom per location,"All our massages begin with a detailed consultation to allow you to choose how you spend the time, what pressure you require and to ascertain areas of pain, discomfort or concern.  We work each muscle group thoroughly and use a variety of massage techniques such as Swedish, myofascial release, lymphatic drainage and deep tissue to create a massage that is unique to your needs.
+
+Treatment time: 45 mins",Massage & Well-Being Therapies,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,179951
+Therapeutic massage - 25 minutes,38,25m,5m blocked time after,Custom per location,"All our massages begin with a detailed consultation to allow you to choose how you spend the time, what pressure you require and to ascertain areas of pain, discomfort or concern.  We work each muscle group thoroughly and use a variety of massage techniques such as Swedish, myofascial release, lymphatic drainage and deep tissue to create a massage that is unique to your needs.
+
+Treatment time: 25 mins",Massage & Well-Being Therapies,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,179952
+Deep tissue massage - 80 minute,90,1h 20m,10m blocked time after,Default per location,"Deep tissue massage is often mistaken as simply a firm pressure massage.  
+ 
+Whilst some of the strokes can feel similar to a firm therapeutic massage, deep tissue massage is used to break down muscle ""knots,"" or adhesions and release painful rigid tissue with long, slow and deep strokes. This invigorating massage is designed to relieve severe tension in muscles and connective tissue.
+ 
+Please note that deep tissue massage is a very specific technique and not simply a firm pressure massage.  If you are not sure which is the best massage for you call us on 020 7018 1209 and we can advise you on the best treatment for you.",Massage & Well-Being Therapies,Deep Tissue Massage,Not required,Enabled,Everyone,Disabled,Enabled,4398619
+Deep tissue massage - 50 minute,68,50m,10m blocked time after,Custom per location,"Deep tissue massage is often mistaken as simply a firm pressure massage.  
+ 
+Whilst some of the strokes can feel similar to a firm therapeutic massage, deep tissue massage is used to break down muscle ""knots,"" or adhesions and release painful rigid tissue with long, slow and deep strokes. This invigorating massage is designed to relieve severe tension in muscles and connective tissue.
+ 
+Please note that deep tissue massage is a very specific technique and not simply a firm pressure massage.  If you are not sure which is the best massage for you call us on 020 7018 1209 and we can advise you on the best treatment for you.",Massage & Well-Being Therapies,Deep Tissue Massage,Not required,Enabled,Everyone,Disabled,Enabled,180612
+Back massage when added to a facial,34,25m,5m blocked time after,Custom per location,"All our massages begin with a detailed consultation to allow you to choose how you spend the time, what pressure you require and to ascertain areas of pain, discomfort or concern.  We work each muscle group thoroughly and use a variety of massage techniques such as Swedish, myofascial release, lymphatic drainage and deep tissue to create a massage that is unique to your needs.
+
+Treatment time: 25 mins",Massage & Well-Being Therapies,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,289408
+CBD sleep massage - 80 min,110,1h 20m,10m blocked time after,Default per location,We use traditional neuro-muscular massage techniques often used in Aromatherapy to assist the transit of essential oils in to the body combined with traditional Swedish massage to create a deeply relaxing massage.,Massage & Well-Being Therapies,Swedish Massage,Not required,Enabled,Everyone,Disabled,Enabled,4782667
+CBD sleep massage - 50 min,88,50m,10m blocked time after,Default per location,We use traditional neuro-muscular massage techniques often used in Aromatherapy to assist the transit of essential oils in to the body combined with traditional Swedish massage to create a deeply relaxing massage.,Massage & Well-Being Therapies,Swedish Massage,Not required,Enabled,Everyone,Disabled,Enabled,4783039
+CBD Joint & muscle ease massage - 80 min,110,1h 20m,10m blocked time after,Default per location,Using traditional massage techniques and mobilisation movements this massage is designed to create a feeling of ease within muscles and joints with a target CBD treatment for areas of discomfort.,Massage & Well-Being Therapies,Swedish Massage,Not required,Enabled,Everyone,Disabled,Enabled,4783813
+CBD Joint & muscle ease massage - 50 min,88,50m,10m blocked time after,Default per location,Using traditional massage techniques and mobilisation movements this massage is designed to create a feeling of ease within muscles and joints with a target CBD treatment for areas of discomfort.,Massage & Well-Being Therapies,Swedish Massage,Not required,Enabled,Everyone,Disabled,Enabled,4783817
+CBD hot stone massage - 80 min,110,1h 20m,10m blocked time after,Default per location,"Two powerfully relaxing treatments are combined to create an experience that releases tension from tight, aching muscles and calms the sympathetic nervous system.",Massage & Well-Being Therapies,Hot Stone Massage,Not required,Enabled,Everyone,Disabled,Enabled,4783823
+CBD hot stone massage - 50 min,88,50m,10m blocked time after,Default per location,"Two powerfully relaxing treatments are combined to create an experience that releases tension from tight, aching muscles and calms the sympathetic nervous system.",Massage & Well-Being Therapies,Hot Stone Massage,Not required,Enabled,Everyone,Disabled,Enabled,4783828
+Indian head massage,38,25m,5m blocked time after,Custom per location,"This intensely calming and relaxing massage covers the head, neck, scalp and shoulders to soothe away stress and bring about a sense of calm and relaxation.
+
+Our Indian head massage is performed on a massage bed and not sitting up in a chair to allow you to fully relax during your treatment.
+
+Treatment time 25 mins",Massage & Well-Being Therapies,Head Massage,Not required,Enabled,Everyone,Disabled,Enabled,180618
+Hot stone massage - 80 minutes,96,1h 20m,10m blocked time after,Custom per location,"This deeply soothing treatment is focused on deep relaxation and relieving muscle tension. Cocooned on a heated massage couch, this full body massage uses long, slow, penetrative techniques to subtly remove any tension. The heat of the stones penetrates to a deeper level than hands alone, relieving aching muscles and joints. Hot Stones are also placed on points around the body to bring balance and harmony, taking you to a deeper level of relaxation.
+
+Treatment time: 1 hr 20 mins",Massage & Well-Being Therapies,Hot Stone Massage,Required,Enabled,Everyone,Disabled,Enabled,180625
+Hot stone massage - 65 minutes,84,1h 5m,10m blocked time after,Custom per location,"This deeply soothing treatment is focused on deep relaxation and relieving muscle tension. Cocooned on a heated massage couch, this full body massage uses long, slow, penetrative techniques to subtly remove any tension. The heat of the stones penetrates to a deeper level than hands alone, relieving aching muscles and joints. Hot Stones are also placed on points around the body to bring balance and harmony, taking you to a deeper level of relaxation.
+
+Treatment time:  1 hr 5 mins",Massage & Well-Being Therapies,Hot Stone Massage,Not required,Enabled,Everyone,Disabled,Enabled,180631
+Hot Stone Massage - 35 minutes,57,35m,10m blocked time after,Default per location,"This deeply soothing treatment is focused on deep relaxation and relieving muscle tension. Cocooned on a heated massage couch, this full body massage uses long, slow, penetrative techniques to subtly remove any tension. The heat of the stones penetrates to a deeper level than hands alone, relieving aching muscles and joints. Hot Stones are also placed on points around the body to bring balance and harmony, taking you to a deeper level of relaxation.
+
+Treatment time: 35 mins",Massage & Well-Being Therapies,Hot Stone Massage,Not required,Enabled,Everyone,Disabled,Enabled,9788097
+Aromatherapy,68,1h 10m,5m blocked time after,Custom per location,"The fusion of eastern and western massage techniques are combined with the powerful therapeutic abilities of essential oils extracted from plants, herbs, flowers, barks and fruits which are selected specially to suit your needs to create a soothing and healing treatment. All appointments used pre-blended oil, however, personalised blends can be requested from our in house formulator this will need to requested 24 hours prior to your appointment. 
+
+Treatment time: 1 hr 10 mins",Massage & Well-Being Therapies,Aromatherapy Massage,Not required,Enabled,Everyone,Disabled,Enabled,180652
+Reflexology,75,1h 5m,10m blocked time after,Custom per location,"Reflexology has been practised for several thousands of years and is known to have been practised in a similar manner by both the Chinese and the Egyptians and it has now become a recognised and respected complementary therapy.
+
+It is not a ""cure all"" treatment but many disorders can be regulated and have been successfully treated by reflexology such as migraine, sinus problems, hormonal imbalances, breathing disorders, digestive problems, back problems, tension and stress and is a deeply relaxing treatment to receive.
+
+Reflex points on the soles of the feet are gently stimulated and massaged to trigger the release of endorphins and to restore the bodies balance and harmony.
+
+N.B. To avoid disappointment we apologise but we are unable to treat clients with an existing outbreak of athletes foot, verrucae or any other contagious condition until it is fully cleared.
+
+Treatment time: 55 mins",Massage & Well-Being Therapies,Reflexology,Not required,Enabled,Everyone,Disabled,Enabled,180646
+Mother & baby - back massage,45,40m,5m blocked time after,Default per location,,Mother & Baby,Therapeutic Massage,Not required,Disabled,,Disabled,Enabled,4266190
+Mother & baby - full body massage,70,1h 5m,10m blocked time after,Default per location,,Mother & Baby,Therapeutic Massage,Required,Disabled,,Disabled,Enabled,4266195
+Mother & baby - Indian head massage,34,25m,5m blocked time after,Default per location,,Mother & Baby,Head Massage,Required,Disabled,,Disabled,Enabled,4266203
+Mother & baby - top & tail package,58,50m,10m blocked time after,Default per location,"A luxuriously relaxing combination of Indian head massage and an acupressure foot massage, designed to support you and baby together so you can choose to either to have baby in a carry cot/chair next to you or to nurse baby during the treatment. Our couches are heated and we have warm blankets so should you choose some skin to skin time with baby you will both be snug as bugs!.",Mother & Baby,Therapeutic Massage,Required,Disabled,,Disabled,Enabled,4266211
+Mother & baby - prescription facial,58,55m,5m blocked time after,Default per location,,Mother & Baby,Facial,Required,Disabled,,Disabled,Enabled,4266288
+Mother & baby - signature facial,82,1h 20m,10m blocked time after,Default per location,,Mother & Baby,Facial,Required,Disabled,,Disabled,Enabled,4266330
+Mummy manicure,45,40m,5m blocked time after,Default per location,,Mother & Baby,Manicure,Required,Disabled,,Disabled,Enabled,4266336
+Mummy pedicure,60,1h,,Default per location,,Mother & Baby,Pedicure,Required,Disabled,,Disabled,Enabled,4266342
+Mummy mani pedi,100,1h 40m,5m blocked time after,Default per location,,Mother & Baby,Manicure,Required,Disabled,,Disabled,Enabled,4266357
+Mummy nail rescue manicure,42,40m,5m blocked time after,Default per location,,Mother & Baby,Manicure,Required,Disabled,,Disabled,Enabled,4266363
+Mummy brow shape,13,15m,,Default per location,,Mother & Baby,Eyebrow Shaping,Required,Disabled,,Disabled,Enabled,4266372
+Mummy brow tint,14,15m,,Default per location,PLEASE NOTE A PATCH TEST IS REQUIRED 48 HOURS BEFORE YOUR APPOINTMENT FOR NEW CLIENTS TO THE SALON OR YOUR FIRST TINT AT LA BELLE JOLIE.,Mother & Baby,Eyelash Tinting,Required,Disabled,,Disabled,Enabled,4266379
+Mummy brow shape & tint,25,25m,5m blocked time after,Default per location,PLEASE NOTE A PATCH TEST IS REQUIRED 48 HOURS BEFORE YOUR APPOINTMENT FOR NEW CLIENTS TO THE SALON OR YOUR FIRST TINT AT LA BELLE JOLIE.,Mother & Baby,Eyebrow Shaping,Required,Disabled,,Disabled,Enabled,4266389
+Balancing body massage,65,1h 5m,10m blocked time after,Default per location,,Oncology Care Treatments,Therapeutic Massage,Not required,Disabled,,Disabled,Enabled,6836218
+Balancing body massage,78,1h 20m,10m blocked time after,Default per location,,Oncology Care Treatments,Therapeutic Massage,Not required,Disabled,,Disabled,Enabled,6836218
+Glowing facial treatment,60,55m,10m blocked time after,Default per location,,Oncology Care Treatments,Facial,Not required,Enabled,Everyone,Disabled,Enabled,6836370
+Specialist hand and arm ritual,60,55m,10m blocked time after,Default per location,,Oncology Care Treatments,Manicure,Not required,Enabled,Everyone,Disabled,Enabled,6836378
+Specialist foot & leg ritual,60,55m,10m blocked time after,Default per location,,Oncology Care Treatments,Pedicure,Not required,Enabled,Everyone,Disabled,Enabled,6836373
+Renew,90,1h 5m,10m blocked time after,Default per location,"This fantastic treat is the perfect pick-me-up, a full body scrub is followed by a de-stress facial which includes our signature facial massage and is then followed by a therapeutic back massage, you may never want to leave.",Packages,Facial,Not required,Enabled,Everyone,Disabled,Enabled,4350844
+Restore,77,1h 15m,,Default per location,"Feel the stress evaporate as our experienced massage therapists ease away muscle tension and the worries of day to day life with our Renew package a blissful Indian Head massage, therapeutic back massage and acupressure foot & leg massage all guaranteed to leave you on cloud nine.",Packages,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,4350839
+Relax,94,1h 20m,10m blocked time after,Default per location,"This beautifully relaxing escape begins with our coconut and lime back scrub and therapeutic back massage, we then gently flow in to our de-stress facial which in includes our signature facial massage and acupressure foot massage. Guaranteed to leave you floating on air!.",Packages,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,4350858
+Refresh,112,1h 45m,,Default per location,"Need a new you?, this top to toe reboot is the perfect answer.  Our restorative hand and foot rituals are topped off with a de-stress facial perfect preparation to face with week ahead.",Packages,Manicure,Not required,Enabled,Everyone,Disabled,Enabled,4350853
+Revive,170,2h 15m,,Default per location,"If you're looking to escape from the world and switch off completely, then our Revive package is the answer, scrub away your worries with our coconut and lime full body scrub then indulge your senses with a marine spa body wrap to restore and remineralise you skin, whilst the wrap is working its magic an Indian head massage ease away tension and stress to get you ready for a full body therapeutic massage.",Packages,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,4350835
+Summer holiday,190,3h,,Default per location,"For a top to toe experience this is a full leg wax, bikini wax of your choice, underarm wax and eyebrow shape all topped of with a classic manicure and pedicure. The perfect holiday preparation.",Packages,Arm Waxing,Not required,Enabled,Females only,Disabled,Enabled,4350829
+Pre & post natal consultation - Free,0,15m,,Default per location,"Even if you have carried out a consultation with the salon already you will need to carry a new consultation for any pre or post natal treatments to ensure you are receiving the correct care.
+
+Appointment time: 15 mins",Pregnancy & Post Natal Treatments,Skin Consultation,Required,Enabled,Everyone,Disabled,Disabled,2589792
+Pregnancy massage - 65 mins (12 - 25 weeks),82,1h 5m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots and  improve circulation and  mobility.
+ 
+The treatment is tailored specifically to your needs, with specialist supports which enable you to lie on your front up to 25 weeks and can be changed to suit changing bodies.",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,344796
+Pregnancy massage - 65 mins  (26 - 42 weeks),82,1h 5m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots and  improve circulation and  mobility.
+ 
+The treatment is tailored specifically to your needs, with specialist supports which enable you to lie on your front up to 25 weeks and can be changed to suit changing bodies.",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,344798
+Pregnancy massage - 80 mins (12 - 25 weeks),94,1h 20m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots and  improve circulation and  mobility.
+ 
+The treatment is tailored specifically to your needs, with specialist supports which enable you to lie on your front up to 25 weeks and can be changed to suit changing bodies.",Pregnancy & Post Natal Treatments,Prenatal Massage,Required,Enabled,Everyone,Disabled,Enabled,945536
+Pregnancy massage - 80 mins  (26 - 42 weeks),94,1h 20m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots, improve circulation and mobility, and just make you feel good.  It's also tailored specifically to the needs of pregnant women and their changing bodies, and therapists who are trained in prenatal massage adjust their techniques accordingly. 
+
+Treatment time: 80 minutes",Pregnancy & Post Natal Treatments,Prenatal Massage,Required,Enabled,Everyone,Disabled,Enabled,945540
+"Pregnancy Massage (12-25 weeks) Back, Neck & Shoulders",56,35m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots and  improve circulation and  mobility.
+ 
+The treatment is tailored specifically to your needs, with specialist supports which enable you to lie on your front up to 25 weeks and can be changed to suit changing bodies.
+
+Treatment time: 35 mins",Pregnancy & Post Natal Treatments,Back Massage,Required,Enabled,Everyone,Disabled,Enabled,945544
+"Pregnancy Massage (26-42 weeks) Back, Neck & Shoulders",56,35m,10m blocked time after,Custom per location,"Pre-natal massage shares many of the goals of regular massage �� to relax tense muscles, ease sore spots, improve circulation and mobility, and just make you feel good. It's also tailored specifically to the needs of pregnant women and their changing bodies, and therapists who are trained in prenatal massage adjust their techniques accordingly. 
+
+Treatment time: 35 minutes",Pregnancy & Post Natal Treatments,Back Massage,Required,Enabled,Females only,Disabled,Enabled,760665
+Pregnancy facial (12-25 weeks),65,1h 5m,10m blocked time after,Default per location,"As well as the multitude of changes your body is going through during this time, there can often be changes in your skin such as acne breakouts and pigmentation changes. Our gentle pre-natal facials are performed with our natural organic products from the Eminence skincare range and are designed to gently support and nurture your skin through this time. Every facial includes a thorough consultation and assessment to ensure that you receive the perfect treatment on every visit. We also adapt our treatment couches to ensure that you are in the safest anatomical positions for each stage of your pregnancy. 
+
+Treatment time: 65 minutes",Pregnancy & Post Natal Treatments,Facial,Not required,Enabled,Everyone,Disabled,Enabled,2589801
+Pregnancy facial (26-42 weeks),65,1h 5m,10m blocked time after,Default per location,"As well as the multitude of changes your body is going through during this time, there can often be changes in your skin such as acne breakouts and pigmentation changes. Our gentle pre-natal facials are performed with our natural organic products from the Eminence skincare range and are designed to gently support and nurture your skin through this time. Every facial includes a thorough consultation and assessment to ensure that you receive the perfect treatment on every visit. We also adapt our treatment couches to ensure that you are in the safest anatomical positions for each stage of your pregnancy. 
+
+Treatment time: 65 minutes",Pregnancy & Post Natal Treatments,Facial,Not required,Enabled,Everyone,Disabled,Enabled,2589809
+Pregnancy pick-me-up,64,50m,10m blocked time after,Default per location,"You asked and we listened, this treatment combination was requested by a mum to be and we think it's perfect. A pre-natal back neck and shoulder massage followed by a de-stress facial. The perfect treat for a mum to be!.
+
+Treatment time: 50 mins",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,2590668
+Top & tail pregnancy package,64,50m,10m blocked time after,Default per location,"This perfect pick-me-up, starts with an Indian head massage which soothes away tension in the scalp, head, neck, shoulders and arms,  combined with a foot and leg ritual to ease tired feet and swollen ankles. Leaving you walking on air and ready to face the world.
+
+Treatment time: 50 mins",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,2590744
+Call the midwife,110,1h 40m,5m blocked time after,Default per location,"This is the perfect preparation for the delivery room, a 1/2 leg wax, a regular or extended bikini wax* and a pre-natal, luxury pedicure. * Both beauty therapists and midwives recommend avoiding Brazilian and Hollywood waxing at this time.
+
+Treatment time: 1 hr 40 mins",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,2689520
+Blooming lovely,110,1h 40m,5m blocked time after,Default per location,"Our ultimate pregnancy pamper package, three blissful treatments begin with our soothing foot ritual, designed to reduce swollen ankles and and work tension out of tired aching feet and legs, followed with a pregnancy back massage to ease away your aches and pains and completed with a mother to be de-stress facial. We suggest leaving strong hints about this one for gift ideas!.
+
+Treatment time: 1 hr 40 mins",Pregnancy & Post Natal Treatments,Prenatal Massage,Not required,Enabled,Everyone,Disabled,Enabled,2689598
+Post-natal massage,82,1h 5m,10m blocked time after,Default per location,"We have created a special post-natal massage for new mums to ensure that we care for you every step of the way throughout your post natal care. We have special supports that cradle the ever changing shape your body in complete comfort and our specially adapted massage ensures that your body has an experience unique to you on every visit. 
+
+Only suitable from 8 weeks post-partum, after your final midwife check-up or 6 months after a caeserean.
+
+Treatment time: 1 hr 5 mins",Pregnancy & Post Natal Treatments,Prenatal Massage,Required,Enabled,Everyone,Disabled,Enabled,2352067
+Pre/post natal reflexology,75,1h 5m,10m blocked time after,Custom per location,"Many expectant mothers find reflexology helps a range of symptoms, from aches and pains and swollen ankles, to tiredness and anxiety. It is also a very non invasive way to relax if the thought of a full body massage is too much.",Pregnancy & Post Natal Treatments,Reflexology,Not required,Disabled,,Disabled,Enabled,999846
+Brazilian wax +,50,40m,5m blocked time after,Custom per location,"This appointment is for your first treatment at the salon or if it is over 8 weeks since your last wax with us, as we have allowed for extra time for a longer or coarser hair growth. 
+
+A Brazilian wax leaves some hair at the front - you can choose how much or how little you prefer and everything else is removed (a Hollywood removes everything!). At La Belle Jolie all our Brazilian and Hollywood waxing is carried out with hot wax which offers a less painful experience allowing skin to return to normal almost immediately after treatment. 
+
+Treatment time: 45 minutes",Intimate Waxing - Women Only,Brazilian Waxing,Not required,Enabled,Females only,Disabled,Enabled,179817
+Brazilian wax + (when added to any leg wax),45,25m,5m blocked time after,Custom per location,"This appointment is for your first treatment or if it is over 8 weeks since your last wax at La Belle jolie, as we have allowed for extra time for a longer hair growth.
+
+This treatment is discounted when booked with any leg wax (the treatments must be booked together and cannot occur on separate days).",Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179840
+Brazilian wax -,45,25m,5m blocked time after,Custom per location,"This appointment is for regular waxers at La Belle Jolie who have 8 weeks or less of growth as the treatment time is shorter.
+
+A Brazilian wax leaves some hair at the front - you can choose how much or how little your prefer, and everything else is removed (a Hollywood removes everything!). 
+
+You can discuss you preferences with your therapist prior to your treatment as both take exactly the same time to perform. 
+
+At La Belle Jolie all our Brazilian and Hollywood waxing is carried out with hot wax which offers a less painful experience allowing skin to return to normal almost immediately after treatment.
+
+Treatment time: 30 minutes
+
+We regret but we do not apply this discount for services you have received at other salons.",Intimate Waxing - Women Only,Brazilian Waxing,Not required,Enabled,Females only,Disabled,Enabled,179824
+Brazilian wax - (when added to any leg wax),42,25m,5m blocked time after,Custom per location,"This appointment is for regular waxers at La Belle Jolie who has 8 weeks or less of growth as the treatment time is shorter.
+
+This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).
+
+We regret but we do not apply this discount for services you have received at other salons.",Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179855
+Hollywood wax +,50,40m,5m blocked time after,Custom per location,"This appointment is for your first treatment at the salon or if it is over 8 weeks since your last wax with us, as we have allowed for extra time for a longer or coarser hair growth.
+
+A Hollywood wax removes everything!.  At La Belle Jolie all our Brazilian and Hollywood waxing is carried out with hot wax which offers a less painful experience allowing skin to return to normal almost immediately after treatment. 
+
+Treatment time: 45 minutes",Intimate Waxing - Women Only,Hollywood Waxing,Not required,Enabled,Females only,Disabled,Enabled,179819
+Hollywood wax + (when added to any leg wax),45,25m,5m blocked time after,Custom per location,"This appointment is for your first treatment at La Belle Jolie or if it is over 8 weeks since your last wax, as we have allowed for extra time for a longer hair growth.  
+
+This treatment is discounted when booked together with any leg wax (the treatments must be booked together and cannot occur on separate days).",Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179843
+Hollywood wax -,45,25m,5m blocked time after,Custom per location,"This appointment is for regular waxers at La Belle Jolie who have 8 weeks or less of growth as the treatment time is shorter.
+
+A Hollywood removes everything! At La Belle Jolie all our Brazilian and Hollywood waxing is carried out with hot wax which offers a less painful experience allowing skin to return to normal almost immediately after treatment.
+
+Treatment time: 30 minutes
+
+We regret but we do not apply this discount for services you have received at other salons.",Intimate Waxing - Women Only,Hollywood Waxing,Not required,Enabled,Females only,Disabled,Enabled,179826
+Hollywood wax - (when added to any leg wax),42,30m,,Custom per location,"This appointment is for regular waxers at La Belle Jolie who have 8 weeks or less of growth as the treatment time is shorter.
+
+This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).
+
+We regret but we do not apply this discount for services you have received at other salons.",Intimate Waxing - Women Only,Leg Waxing,Not required,Disabled,,Disabled,Enabled,179857
+Extended bikini line - strip wax,32,25m,5m blocked time after,Custom per location,"This is also known as a g-string or high leg wax and suitable to remove any growth that would be visible whilst wearing a g-string or high cut bathing suit.
+
+Treatment time: 20 minutes",Intimate Waxing - Women Only,Bikini Waxing,Not required,Enabled,Females only,Disabled,Enabled,179833
+Extended bikini wax - strip wax (when added to any leg wax),26,15m,,Custom per location,This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).,Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179859
+Extended bikini line - hot wax,32,25m,5m blocked time after,Custom per location,"This is also known as a g-string or high leg wax and suitable to remove any growth that would be visible whilst wearing a g-string or high cut bathing suit.
+
+Treatment time: 25 minutes",Intimate Waxing - Women Only,Bikini Waxing,Not required,Enabled,Females only,Disabled,Enabled,179835
+Extended bikini wax - hot wax (when added to any leg wax),26,15m,,Custom per location,This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).,Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179861
+Bikini wax - strip wax,30,25m,5m blocked time after,Custom per location,"For the area of growth outside the panty line/leg crease to remove all bikini growth from the leg.
+
+Treatment time: 15 minutes",Intimate Waxing - Women Only,Bikini Waxing,Not required,Disabled,,Disabled,Enabled,179836
+Bikini line - strip wax (when added to any leg wax),25,15m,,Custom per location,"For the area of growth outside the panty line/leg crease to remove all bikini growth from the leg.
+
+Treatment time: 15 minutes
+
+This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).",Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179864
+Bikini line - hot wax,30,25m,5m blocked time after,Custom per location,"For the area of growth outside the panty line/leg crease to remove all bikini growth from the leg.
+
+Treatment time: 25 minutes",Intimate Waxing - Women Only,Bikini Waxing,Not required,Enabled,Females only,Disabled,Enabled,179837
+Bikini line - hot wax (when added to any leg wax),25,15m,,Custom per location,"For the area of growth outside the panty line/leg crease to remove all bikini growth from the leg.
+
+Treatment time: 15 minutes
+
+This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).",Intimate Waxing - Women Only,Leg Waxing,Not required,Enabled,Females only,Disabled,Enabled,179863
+1/2 leg wax,28,25m,5m blocked time after,Custom per location,This wax covers the lower half of the leg from the knees to the toes.,Waxing - Strip Wax,Leg Waxing,Required,Enabled,Everyone,Disabled,Enabled,179866
+1/2 leg wax - upper leg,32,25m,5m blocked time after,Custom per location,This covers the upper leg from the top of the thigh down to the knees.,Waxing - Strip Wax,Leg Waxing,Required,Enabled,Everyone,Disabled,Enabled,179868
+3/4 leg wax,37,25m,5m blocked time after,Custom per location,This treatments covers the mid thigh down to the toes,Waxing - Strip Wax,Leg Waxing,Required,Enabled,Everyone,Disabled,Enabled,179871
+Full leg wax,44,40m,5m blocked time after,Custom per location,For legs as smooth as silk from top to toe.,Waxing - Strip Wax,Leg Waxing,Not required,Enabled,Everyone,Disabled,Enabled,179873
+Back of thigh,16,15m,,Custom per location,"This is for the back of the thigh where it is common to have patches of darker, longer hair than the rest of the legs.",Waxing - Strip Wax,Back Waxing,Required,Enabled,Everyone,Disabled,Enabled,1001031
+Buttocks - strip wax,25,20m,10m blocked time after,Custom per location,"This is for hair growth that appears on or across the buttock area.
+
+Small patches of hair underneath or between the buttocks are removed as standard in a bikini wax, if required, and do not need to be booked separately.",Waxing - Strip Wax,Arm Waxing,Required,Enabled,Females only,Disabled,Enabled,179875
+Buttocks - strip wax (when added to any leg wax),20,15m,,Custom per location,"This is for hair growth that appears on or across the buttock area, small patches of hair underneath or between the buttocks are removed as standard in a bikini wax, if required, and do not need to be booked separately (the treatments must be booked together and cannot occur on separate days).",Waxing - Strip Wax,Leg Waxing,Required,Disabled,,Disabled,Enabled,179877
+Under arm - strip wax,19,10m,5m blocked time after,Custom per location,For underarm hair growth.,Waxing - Strip Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179879
+Under arm - strip wax (when added to another waxing service),16,10m,5m blocked time after,Custom per location,For underarm hair growth.,Waxing - Strip Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179878
+1/2 arm - strip wax,22,25m,5m blocked time after,Custom per location,For hair growth on either the lower or upper part of the arm.,Waxing - Strip Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179881
+Full arm - strip wax,32,25m,5m blocked time after,Custom per location,To remove all hair from the hand to the shoulder.,Waxing - Strip Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179882
+"Lip, chin and eyebrow shape - strip wax",34,15m,,Default per location,,Waxing - Strip Wax,Eyebrow Waxing,Not required,Enabled,Everyone,Disabled,Enabled,7118535
+Lip - strip wax,16,15m,,Custom per location,To remove any unwanted hair from the upper and lower lip area.,Waxing - Strip Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179888
+Chin - strip wax,16,15m,,Custom per location,This is to remove and unwanted hair from on or around the chin area.,Waxing - Strip Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179891
+Lip & chin - strip wax,22,15m,,Custom per location,This is to remove any unwanted hair from around the lip and chin area.,Waxing - Strip Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179893
+Neck - strip wax,16,15m,,Custom per location,This is to remove any unwanted hair from the front or back of the neck.,Waxing - Strip Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179895
+Side of face - strip wax,16,15m,,Custom per location,This treatment is to remove any unwanted hair from the sides of the face.,Waxing - Strip Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179896
+Neck & side of face - strip wax,25,20m,10m blocked time after,Custom per location,This treatment is to remove any unwanted hair from the sides of the face and around the neck.,Waxing - Strip Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179897
+Nasal wax - hot wax only,20,20m,10m blocked time after,Custom per location,To remove hair from around the nostril area.,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179914
+Buttocks - hot wax,25,25m,5m blocked time after,Custom per location,"This is for hair growth that appears on or across the buttock area, small patches of hair underneath or between the buttocks are removed as standard in a bikini wax, if required, and do not need to be booked separately.
+
+Hot wax is a far more delicate and kinder wax on the skin and offers far more comfort during treatment.",Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179899
+Buttocks - hot wax (when added to any leg wax),20,15m,,Custom per location,"This is for hair growth that appears on or across the buttock area, small patches of hair underneath or between the buttocks are removed as standard in a bikini wax, if required, and do not need to be booked separately  (the treatments must be booked together and cannot occur on separate days).",Waxing - Hot Wax,Leg Waxing,Required,Enabled,Everyone,Disabled,Enabled,179900
+Under arm - hot wax,19,15m,,Custom per location,To remove all underarm hair.,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179901
+Under arm - hot wax (when added to any leg wax),16,15m,,Custom per location,This treatment is discounted when booking together with any leg wax (the treatments must be booked together and cannot occur on separate days).,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179904
+Full arm - hot wax,32,20m,10m blocked time after,Custom per location,The remove all hair from the hand to the shoulder.,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179906
+1/2 arm - hot wax,22,20m,10m blocked time after,Custom per location,To remove all hair from either the upper or lower arm.,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179905
+"Lip, chin and eyebrow shape - hot wax",34,15m,,Default per location,,Waxing - Hot Wax,Eyebrow Waxing,Not required,Enabled,Everyone,Disabled,Enabled,7118660
+Lip - hot wax,16,15m,,Custom per location,To remove any unwanted hair from the upper and lower lip area.,Waxing - Hot Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179907
+Chin - hot wax,16,15m,,Custom per location,This is to remove and unwanted hair from on or around the chin area.,Waxing - Hot Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179908
+Lip & chin - hot wax,22,15m,,Custom per location,To remove all unwanted hair from the lip and chin area.,Waxing - Hot Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179909
+Neck - hot wax,16,15m,,Custom per location,This is to remove any unwanted hair from the front or back of the neck.,Waxing - Hot Wax,Arm Waxing,Required,Enabled,Everyone,Disabled,Enabled,179910
+Side of face - hot wax,16,15m,,Custom per location,This treatment is to remove any unwanted hair from the sides of the face.,Waxing - Hot Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179911
+Neck & side of face - hot wax,25,20m,10m blocked time after,Custom per location,This treatment is to remove any unwanted hair from the sides of the face and around the neck.,Waxing - Hot Wax,Face Waxing,Required,Enabled,Everyone,Disabled,Enabled,179912
+Chest - hot wax,35,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the chest.,Waxing for Men,Men's Waxing,Not required,Enabled,Males only,Disabled,Enabled,179916
+Chest - strip wax,35,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the chest.,Waxing for Men,Men's Waxing,Not required,Enabled,Males only,Disabled,Enabled,179915
+Chest & abdomen - hot wax,45,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the chest and abdomen.,Waxing for Men,Men's Waxing,Not required,Enabled,Males only,Disabled,Enabled,179920
+Chest & abdomen - strip wax,45,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the chest and abdomen.,Waxing for Men,Men's Waxing,Not required,Enabled,Males only,Disabled,Enabled,179919
+Upper back - hot wax,35,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the upper back.,Waxing for Men,Back Waxing,Not required,Enabled,Males only,Disabled,Enabled,179922
+Upper back - strip wax,35,25m,5m blocked time after,Custom per location,To remove all unwanted hair from the upper back.,Waxing for Men,Back Waxing,Not required,Enabled,Everyone,Disabled,Enabled,179921
+Full back - hot wax,48,40m,5m blocked time after,Custom per location,To remove all unwanted hair from the back.,Waxing for Men,Back Waxing,Not required,Enabled,Everyone,Disabled,Enabled,179924
+Full back - strip wax,48,40m,5m blocked time after,Custom per location,To remove all unwanted hair from the back.,Waxing for Men,Back Waxing,Not required,Enabled,Everyone,Disabled,Enabled,179923
+Full leg wax (for men),44,40m,5m blocked time after,Custom per location,To remove all unwanted hair from the toes to the top of the thigh.,Waxing for Men,Leg Waxing,Not required,Enabled,Males only,Disabled,Enabled,179925
+Mini massage,18,15m,,Default per location,"This is the perfect upgrade for facials, Indian head massage, body treatments or any of our packages.",Upgrades & Add Ons,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,3986476
+Mini Indian head massage,18,15m,,Default per location,"This is the perfect upgrade treatment to compliment massage, facials, body treatments and packages.",Upgrades & Add Ons,Head Massage,Not required,Enabled,Everyone,Disabled,Enabled,3986482
+Acupressure foot & leg massage,18,15m,,Default per location,"The perfect addition for a back massage, Indian head massage or facial. 
+
+NB: Not suitable to add on to any leg waxing appointment.",Upgrades & Add Ons,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,3986502
+Acupressure hand & arm massage,18,15m,,Default per location,"The perfect addition for a back massage, Indian head massage, facial or packages.",Upgrades & Add Ons,Therapeutic Massage,Not required,Enabled,Everyone,Disabled,Enabled,3986506
+Mini facial,18,15m,,Default per location,"A perfect pick me up to add the perfect finish to any massage, Indian head massage, back treatment or body scrub.",Upgrades & Add Ons,Facial,Not required,Enabled,Everyone,Disabled,Enabled,3986473
+Revital-eyes,18,15m,,Default per location,"This anti ageing pick-me-up is the perfect treat to add to any facial. With powerful plant botanicals, it's a superboost to any facial treatment or a great ending to an Indian head massage. Your eyes are treated to mini ""facial"" of their own with exfoliation, mask and massage!.
+
+Please note this treatment can only be booked with another treatment it cannot be booked on its own.",Upgrades & Add Ons,Facial,Not required,Enabled,Everyone,Disabled,Enabled,3986475
+Lip reviver,18,15m,,Default per location,"Are your lips dry and flakely and looking seriously lack lustre?   Why not give them a mini ""facial"" experience all of their own with a scrub, mask, massage and nourishing lemon balm! Perfect to add to you facial for an extra boost.
+
+Please note this treatment can only be added to another service it cannot be booked on its own.",Upgrades & Add Ons,Facial,Not required,Enabled,Everyone,Disabled,Enabled,6668697
+Winter warmer [valid until 31.01.24],70,50m,10m blocked time after,Custom per location,Our favourite winter offer is back with a warming therapeutic hot stone back massage and an Indian head massage.,Special Offers ?,Hot Stone Massage,Not required,Enabled,Everyone,Disabled,Disabled,550508
+Room Hire - 2 hour booking,40,2h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10437178
+Room Hire - 3 hour booking,60,3h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10435399
+Room Hire - 4 hour booking,80,4h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10435320
+Room Hire - 5 hour booking,100,5h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10435538
+Room Hire - 6 hour booking,120,6h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10437390
+Room Hire - 8 hour booking,160,8h,15m blocked time after,Default per location,"For practitioners wishing to hire therapy rooms at La Belle Jolie Ltd.
+
+Our full terms will be sent to you with your booking confirmation.",Room Hire,Onsen,Not required,Enabled,Everyone,Disabled,Disabled,10437492
